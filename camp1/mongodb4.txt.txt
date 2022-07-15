@@ -1,0 +1,148 @@
+[
+    {
+        "OrderId": 1,
+        "OrderDate": "2020-12-22",
+        "OrderPrice": 270,
+        "OrderQuantity": 2,
+        "CustomerName": "Jayesh",
+        "ProductDetails": [
+            {
+                "Product_id": 145,
+                "Manufacture_Date": "2019-12-23",
+                "Product_Name": "MobilePhone",
+                "Manufr_id": "Samsung"
+            },
+            {
+                "Product_id": 783,
+                "OrderId": 1,
+                "Manufacture_Date": "2017-11-03",
+                "Product_Name": "LED TV",
+                "Manufr_id": "Sony"
+            }
+        ]
+    },
+    {
+        "OrderId": 2,
+        "OrderDate": "2019-08-10",
+        "OrderPrice": 280,
+        "OrderQuantity": 4,
+        "CustomerName": "Abhilash",
+        "ProductDetails": [
+            {
+                "Product_id": 123,
+                "Manufacture_Date": "2019-10-03",
+                "Product_Name": "Laptop",
+                "Manufr_id": "Sony"
+            }
+        ]
+    },
+    {
+        "OrderId": 3,
+        "OrderDate": "2019-07-13",
+        "OrderPrice": 600,
+        "OrderQuantity": 5,
+        "CustomerName": "Lily",
+        "ProductDetails": [
+            {
+                "Product_id": 344,
+                "Manufacture_Date": "2018-11-03",
+                "Product_Name": "Laptop",
+                "Manufr_id": "Samsung"
+            },
+            {
+                "Product_id": 233,
+                "Manufacture_Date": "2019-11-30",
+                "Product_Name": "PowerBank",
+                "Manufr_id": "Sony"
+            }
+        ]
+    },
+    {
+        "OrderId": 4,
+        "OrderDate": "2020-07-15",
+        "OrderPrice": 520,
+        "OrderQuantity": 1,
+        "CustomerName": "Jayesh",
+        "ProductDetails": [
+            {
+                "Product_id": 784,
+                "Manufacture_Date": "2019-11-28",
+                "Product_Name": "LED TV",
+                "Manufr_id": "Sony"
+            }
+        ]
+    },
+    {
+        "OrderId": 5,
+        "OrderDate": "2020-12-22",
+        "OrderPrice": 1200,
+        "OrderQuantity": 4,
+        "CustomerName": "Aswathy",
+        "ProductDetails": [
+            {
+                "Product_id": 435,
+                "Manufacture_Date": "2018-11-04",
+                "Product_Name": "MobilePhone",
+                "Manufr_id": "Samsung"
+            },
+            {
+                "Product_id": 267,
+                "Manufacture_Date": "2019-21-03",
+                "Product_Name": "Headphone",
+                "Manufr_id": "Boat"
+            }
+        ]
+    },
+    {
+        "OrderId": 6,
+        "OrderDate": "2019-10-02",
+        "OrderPrice": 720,
+        "OrderQuantity": 3,
+        "CustomerName": "Jayesh",
+        "ProductDetails": [
+            {
+                "Product_id": 147,
+                "Manufacture_Date": "2019-08-15",
+                "Product_Name": "MobilePhone",
+                "Manufr_id": "Mi"
+            },
+            {
+                "Product_id": 567,
+                "Manufacture_Date": "2019-09-03",
+                "Product_Name": "PowerBank"
+                ,"Manufr_id": "Sony"
+            }     
+        ]
+    },
+    {
+        "OrderId": 7,
+        "OrderDate": "2020-11-03",
+        "OrderPrice": 3000,
+        "OrderQuantity": 2,
+        "CustomerName": "Lily",
+        "ProductDetails": []
+    },
+    {
+        "OrderId": 8,
+        "OrderDate": "2020-12-22",
+        "OrderPrice": 1100,
+        "OrderQuantity": 4,
+        "CustomerName": "Aswathy",
+        "ProductDetails": []
+    },
+    {
+        "OrderId": 9,
+        "OrderDate": "2019-12-29",
+        "OrderPrice": 5500,
+        "OrderQuantity": 2,
+        "CustomerName": "Jayesh",
+        "ProductDetails": [
+            {
+                "Product_id": 333,
+                "Manufacture_Date": "2017-12-12",
+                "Product_Name": "Laptop",
+                "Manufr_id": "Samsung"
+            }
+        ]
+    }
+]
